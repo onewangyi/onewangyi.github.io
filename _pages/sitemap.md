@@ -29,6 +29,8 @@ Semi Supervision: [https://github.com/XYZach/RLSSS](https://github.com/XYZach/RL
 
 Multi-organs: [https://github.com/zefanyang/organseg_dags](https://github.com/zefanyang/organseg_dags)
 
+AutPath-Dynamic Inference: [https://github.com/JustThinker/AutoPath](https://github.com/JustThinker/AutoPath)
+
 
 Computer Assisted Diagnosis:
 ======
