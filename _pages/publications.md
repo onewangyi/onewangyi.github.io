@@ -40,7 +40,8 @@ Qingqing Zheng, **Yi Wang**\*, Pheng-Ann Heng, Online Subspace Learning from Gra
 
 **Yi Wang**\*, Qingqing Zheng, Pheng-Ann Heng, Online Robust Projective Dictionary Learning: Shape Modeling for MR-TRUS Registration, _IEEE Transactions on Medical Imaging_, 2018, 37(4): 1067-1078.
 
-**Yi Wang**, Zijun Deng, Xiaowei Hu, Lei Zhu\*, Xin Yang, Xuemiao Xu, Pheng-Ann Heng, Dong Ni, Deep Attentional Features for Prostate Segmentation in Ultrasound, In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2018: 523-530.
+**Yi Wang**, Zijun Deng, Xiaowei Hu, Lei Zhu\*, Xin Yang, Xuemiao Xu, Pheng-Ann Heng, Dong Ni, Deep Attentional Features for Prostate Segmentation in Ultrasound, In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2018: 523-530. [[code](https://
+github.com/zijundeng/DAF)]
 
 Jing Li, **Yi Wang**\*, Baiying Lei, Jie-Zhi Cheng, Jing Qin, Tianfu Wang, Shengli Li\*, Dong Ni\*, Automatic Fetal Head Circumference Measurement in Ultrasound using Random Forest and Fast Ellipse Fitting, _IEEE Journal of Biomedical and Health Informatics_, 2018, 22(1): 215-223.
 
