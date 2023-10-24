@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yi WANG / SMILE Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yi WANG"
 description              : &description "personal description"
 url                      : https://onewangyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Smart Medical Imaging, Learning and Engineering (SMILE) Lab"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "Shenzhen University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=k2-vv-MAAAAJ&hl=zh-CN&oi=ao"
   email            :  "onewang@szu.edu.cn"
