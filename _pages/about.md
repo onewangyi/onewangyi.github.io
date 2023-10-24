@@ -27,3 +27,8 @@ News
 03/2023: Our paper on Breast Cancer Segmentation in DCE-MRI is accepted by Expert Systems with Applications. Congrats to Rian. "[Joint-phase Attention Network for Breast Cancer Segmentation in DCE-MRI](https://www.sciencedirect.com/science/article/pii/S0957417423004645)", [[code]](https://github.com/ryandok/JPA).
 
 01/2023: Our paper on Semi-supervised Medical Image Segmentation is accepted by Medical Physics. Congrats to Xiangyun, Rian, and Yuming. "[A Reciprocal Learning Strategy for Semisupervised Medical Image Segmentation](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.15923)", [[code]](https://github.com/XYZach/RLSSS).
+
+Contact
+======
+Email: onewang@szu.edu.cn, wilson.near@gmail.com
+Mail Addr: Rm 510, A2 Biomedical Engineering Building, Shenzhen University (Lihu Campus), Shenzhen, Guangdong, China
