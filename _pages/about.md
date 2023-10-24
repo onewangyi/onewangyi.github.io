@@ -16,6 +16,8 @@ News
 ======
 10/2023: Dr. Wang has been selected as the "[World's Top 2% Scientists](https://data.mendeley.com/datasets/btchxktzyw)" (2022).
 
-10/2023: Our paper on Scribble-supervised Medical Image segmentation is accepted by Expert Systems with Applications. Congrats to Zefan. "[Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265)", code: [https://github.com/zefanyang/pacingpseudo](https://github.com/zefanyang/pacingpseudo).
+10/2023: Our paper on Scribble-supervised Medical Image Segmentation is accepted by Expert Systems with Applications. Congrats to Zefan. "[Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265)", [[code]](https://github.com/zefanyang/pacingpseudo).
 
-06/2023: Our paper on Point-supervised Medical Image segmentation is accepted by MICCAI2023. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", code: [https://github.com/Abner228/SmileCode](https://github.com/Abner228/SmileCode).
+06/2023: Our paper on Point-supervised Medical Image Segmentation is accepted by MICCAI2023. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", [[code]](https://github.com/Abner228/SmileCode).
+
+05/2023: Our paper on Medical Image Registration is early accepted by MICCAI2023. Congrats to Haiqiao. "[ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)", [[code]](https://github.com/ZAX130/SmileCode)
