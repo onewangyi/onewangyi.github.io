@@ -30,6 +30,6 @@ News
 
 Contact
 ======
-Email: onewang@szu.edu.cn, wilson.near@gmail.com
+Email: [onewang@szu.edu.cn](onewang@szu.edu.cn), [wilson.near@gmail.com](wilson.near@gmail.com)
 
 Mail Addr: Rm 510, A2 Biomedical Engineering Building, Shenzhen University (Lihu Campus), Shenzhen, Guangdong, China
