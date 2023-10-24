@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Yi WANG (王毅)"
   avatar           : "profile.png"
-  bio              : 
-  "Ph.D, Associate Professor"
-  "Smart Medical Imaging, Learning and Engineering (SMILE) Lab"
+  bio              : "Ph.D, Associate Professor, Smart Medical Imaging, Learning and Engineering (SMILE) Lab"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
