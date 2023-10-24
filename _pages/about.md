@@ -20,6 +20,10 @@ News
 
 06/2023: Our paper on Point-supervised Medical Image Segmentation is accepted by MICCAI2023. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", [[code]](https://github.com/Abner228/SmileCode).
 
-05/2023: Our paper on Medical Image Registration is early accepted by MICCAI2023. Congrats to Haiqiao. "[ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)", [[code]](https://github.com/ZAX130/SmileCode)
+05/2023: Our paper on Medical Image Registration is early accepted by MICCAI2023. Congrats to Haiqiao. "[ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)", [[code]](https://github.com/ZAX130/SmileCode).
 
-03/2023: Our paper on Breast Cancer Segmentation in DCE-MRI is accepted by Expert Systems with Applications. Congrats to Rian. "[Joint-phase Attention Network for Breast Cancer Segmentation in DCE-MRI](https://www.sciencedirect.com/science/article/pii/S0957417423004645)", [[code]](https://github.com/ryandok/JPA)
+03/2023: Dr. Wang has served as the Program Committee Member of The 36th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS2023).
+
+03/2023: Our paper on Breast Cancer Segmentation in DCE-MRI is accepted by Expert Systems with Applications. Congrats to Rian. "[Joint-phase Attention Network for Breast Cancer Segmentation in DCE-MRI](https://www.sciencedirect.com/science/article/pii/S0957417423004645)", [[code]](https://github.com/ryandok/JPA).
+
+01/2023: Our paper on Semi-supervised Medical Image Segmentation is accepted by Medical Physics. Congrats to Xiangyun, Rian, and Yuming. "[A Reciprocal Learning Strategy for Semisupervised Medical Image Segmentation](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.15923)", [[code]](https://github.com/XYZach/RLSSS).
