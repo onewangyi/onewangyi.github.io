@@ -18,4 +18,4 @@ News
 
 10/2023: Our paper on Scribble-supervised Medical Image segmentation is accepted by Expert Systems with Applications. Congrats to Zefan. "[Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265)", code: [https://github.com/zefanyang/pacingpseudo](https://github.com/zefanyang/pacingpseudo).
 
-
+06/2023: Our paper on Point-supervised Medical Image segmentation is accepted by MICCAI2023. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", code: [https://github.com/Abner228/SmileCode](https://github.com/Abner228/SmileCode).
