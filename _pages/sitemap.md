@@ -19,7 +19,13 @@ Joint Affine and Deformable Registration: [https://github.com/zzy245328021/regis
 
 Segmentation:
 ======
-Zefan Yang, 
+Attention: [https://github.com/wulalago/DAF3D](https://github.com/wulalago/DAF3D), [https://github.com/zijundeng/DAF](https://github.com/zijundeng/DAF)
+
+Point Supervision: [https://github.com/Abner228/SmileCode](https://github.com/Abner228/SmileCode)
+
+Scribble Supervision: [https://github.com/zefanyang/pacingpseudo](https://github.com/zefanyang/pacingpseudo)
+
+Semi Supervision: [https://github.com/XYZach/RLSSS](https://github.com/XYZach/RLSSS)
 
 
 Computer Assisted Diagnosis:
