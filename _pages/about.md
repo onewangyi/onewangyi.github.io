@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SMILE Lab"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yi Wang joined the School of Biomedical Engineering, Health Science Center at Shenzhen University in June 2017. He received his Ph.D. degree in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK), under the supervision by Prof. Pheng-Ann Heng.
-Yi Wang's research interests include medical image computing (especially in medical image registration, multi-modality prostate image analysis, and computer-aided breast cancer diagnosis), medical imaging, image processing, computer vision, and machine learning. Dr. Wang has published several papers in the IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Cybernetics (TCYB), International Conference on Computer Vision (ICCV), International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), and so on. Dr. Wang keeps good relationship with clinic and various research groups, and values practical techniques that can be transferred to clinically applicable systems.
+Yi Wang joined the School of Biomedical Engineering, Medical School at Shenzhen University in June 2017. He received his Ph.D. degree in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK), under the supervision by Prof. Pheng-Ann Heng.
+
+Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diagnosis and Interventions (especially in medical image registration, multi-modality prostate image analysis, computer-aided breast cancer diagnosis, and intelligent orthopedics). Dr. Wang has published several papers in the IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Cybernetics (TCYB), International Conference on Computer Vision (ICCV), International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), and so on. Dr. Wang keeps good relationship with clinic and various research groups, and values practical techniques that can be transferred to clinically applicable systems.
 
 A data-driven personal website
 ======
