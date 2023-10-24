@@ -10,7 +10,8 @@ author_profile: true
 
 Selected Publications:
 ======
-Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation, _Expert Systems with Applications_, 2024, 238: 122024.
+Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation, _Expert Systems with Applications_, 2024, 238: 122024. [[code](https://github.com/zefanyang/pacingpseudo
+)]
 
 Yuming Zhong, **Yi Wang**\*, SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI, In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2023: 567-577.
 
