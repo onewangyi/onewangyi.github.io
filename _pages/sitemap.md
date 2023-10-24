@@ -8,7 +8,7 @@ author_profile: true
 
 Registration:
 ======
-Motion Decomposition Transformer (ModeT): [ttps://github.com/ZAX130/SmileCode](https://github.com/ZAX130/SmileCode)
+Motion Decomposition Transformer (ModeT): [https://github.com/ZAX130/SmileCode](https://github.com/ZAX130/SmileCode)
 
 Recursive Deformable Pyramid: [https://github.com/ZAX130/RDP](https://github.com/ZAX130/RDP)
 
