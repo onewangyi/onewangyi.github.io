@@ -16,6 +16,8 @@ News
 ======
 10/2023: Dr. Wang has been selected as the "[World's Top 2% Scientists](https://data.mendeley.com/datasets/btchxktzyw)" (2022).
 
+10/2023: We present our Motion Decomposition Transformer (ModeT) at MICCAI Learn2Reg 2023 as a spotlight talk.
+
 10/2023: Our paper on Scribble-supervised Medical Image Segmentation is accepted by _Expert Systems with Applications_. Congrats to Zefan. "[Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265)", [[code]](https://github.com/zefanyang/pacingpseudo).
 
 06/2023: Our paper on Point-supervised Medical Image Segmentation is accepted by _MICCAI2023_. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", [[code]](https://github.com/Abner228/SmileCode).
