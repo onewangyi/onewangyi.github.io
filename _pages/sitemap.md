@@ -27,7 +27,7 @@ Scribble Supervision: [https://github.com/zefanyang/pacingpseudo](https://github
 
 Semi Supervision: [https://github.com/XYZach/RLSSS](https://github.com/XYZach/RLSSS)
 
-Multi-organs: [https://github.com/zefanyang/organseg_dags](https://github.com/zefanyang/organseg_dags)
+Multi-organs: [https://github.com/zefanyang/organseg_dags](https://github.com/zefanyang/organseg_dags), [https://github.com/zefanyang/organsegct](https://github.com/zefanyang/organsegct)
 
 AutPath-Dynamic Inference: [https://github.com/JustThinker/AutoPath](https://github.com/JustThinker/AutoPath)
 
