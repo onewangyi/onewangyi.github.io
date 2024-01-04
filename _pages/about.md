@@ -14,6 +14,8 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
+01/2024: Our collaborative study with [Prof. Zida Li](https://zidalab.github.io/) is accepted by _PNAS_. "[StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate](www.pnas.org/doi/10.1073/pnas.2314030121)".
+
 10/2023: Dr. Wang has been selected as the "[World's Top 2% Scientists](https://data.mendeley.com/datasets/btchxktzyw)" (2022).
 
 10/2023: We present our Motion Decomposition Transformer (ModeT) at MICCAI Learn2Reg 2023 as a spotlight talk.
