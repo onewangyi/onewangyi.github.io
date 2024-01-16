@@ -16,6 +16,8 @@ News
 ======
 01/2024: Our collaborative study with [Prof. Zida Li](https://zidalab.github.io/) is accepted by _PNAS_. "[StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate](https://www.pnas.org/doi/10.1073/pnas.2314030121)".
 
+11/2023: Our "Guangdong-Hong Kong Joint Funding for Technology and Innovation" project named "Research and Development of Intelligent Preoperative Planning System for Tibial Plateau Fractures", collaborated with [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/), has been successfully funded. Cheer!
+
 10/2023: Dr. Wang has been selected as the "[World's Top 2% Scientists](https://data.mendeley.com/datasets/btchxktzyw)" (2022).
 
 10/2023: We present our Motion Decomposition Transformer (ModeT) at MICCAI Learn2Reg 2023 as a spotlight talk.
