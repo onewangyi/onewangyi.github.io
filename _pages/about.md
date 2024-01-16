@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yi Wang joined the School of Biomedical Engineering, Medical School at Shenzhen University in June 2017. He received his Ph.D. degree in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK), under the supervision by Prof. Pheng-Ann Heng.
+Yi Wang joined the School of Biomedical Engineering, Medical School at Shenzhen University in June 2017. He received his Ph.D. degree in [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) from The Chinese University of Hong Kong (CUHK), under the supervision by [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/).
 
 Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diagnosis and Interventions (especially in medical image registration, multi-modality prostate image analysis, computer-aided breast cancer diagnosis, and intelligent orthopedics). Dr. Wang has published several papers in the _IEEE Transactions on Medical Imaging_ (TMI), _IEEE Transactions on Image Processing_ (TIP), _IEEE Transactions on Cybernetics_ (TCYB), _International Conference on Computer Vision_ (ICCV), _International Conference on Medical Image Computing and Computer Assisted Intervention_ (MICCAI), and so on. Dr. Wang keeps good relationship with clinic and various research groups, and values practical techniques that can be transferred to clinically applicable systems.
 
