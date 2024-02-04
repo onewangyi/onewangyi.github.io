@@ -14,6 +14,8 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
+02/2024: Our paper on Medical Image Registration is accepted by _ISBI2024_. Congrats to Zhuoyuan and Haiqiao. "Pyramid Attention Network for Medical Image Registration", [code: coming soon].
+
 01/2024: Our collaborative study with [Prof. Zida Li](https://zidalab.github.io/) is accepted by _PNAS_. "[StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate](https://www.pnas.org/doi/10.1073/pnas.2314030121)".
 
 11/2023: Our "Guangdong-Hong Kong Joint Funding for Technology and Innovation" project named "Research and Development of Intelligent Preoperative Planning System for Tibial Plateau Fractures", collaborated with [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/), has been successfully funded. Cheer!
