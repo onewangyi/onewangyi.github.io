@@ -14,7 +14,7 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
-02/2024: Our paper on Deformable Image Registration without Pre-alignment is accepted by _IEEE_ _TMI_. Congrats to Haiqiao. "Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration", [[code]](https://github.com/ZAX130/RDP).
+02/2024: Our paper on Deformable Image Registration without Pre-alignment is accepted by _IEEE_ _TMI_. Congrats to Haiqiao. "[Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968)", [[code]](https://github.com/ZAX130/RDP).
 
 02/2024: Our paper on Medical Image Registration is accepted by _ISBI2024_. Congrats to Zhuoyuan and Haiqiao. "Pyramid Attention Network for Medical Image Registration", [code: coming soon].
 
