@@ -10,6 +10,8 @@ author_profile: true
 
 Selected Publications:
 ======
+Haiqiao Wang, Dong Ni, **Yi Wang**\*, [Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968), _IEEE Transactions on Medical Imaging_, 2024. [[code]](https://github.com/ZAX130/RDP)
+
 Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, [Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265), _Expert Systems with Applications_, 2024, 238: 122024. [[code](https://github.com/zefanyang/pacingpseudo)]
 
 Yuming Zhong, **Yi Wang**\*, [SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54), In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2023: 567-577. [[code](https://github.com/Abner228/SmileCode)]
