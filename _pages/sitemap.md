@@ -16,7 +16,7 @@ Salient Registration: [https://github.com/Rrrfrr/Salient-Deformable-Network](htt
 
 Joint Affine and Deformable Registration: [https://github.com/zzy245328021/registration](https://github.com/zzy245328021/registration)
 
-Pyramid Attention Registration: [https://github.com/zzy245328021/registration](https://github.com/JuliusWang-7/PAN)
+Pyramid Attention Registration: [https://github.com/JuliusWang-7/PAN](https://github.com/JuliusWang-7/PAN)
 
 
 Segmentation:
