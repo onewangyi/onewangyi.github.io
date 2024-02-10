@@ -36,8 +36,10 @@ AutPath-Dynamic Inference: [https://github.com/JustThinker/AutoPath](https://git
 
 Computer Assisted Diagnosis:
 ======
-Breast Ultrasound: [https://github.com/nawang0226/abus_code](https://github.com/nawang0226/abus_code)
+Breast Cancer in Ultrasound: [https://github.com/nawang0226/abus_code](https://github.com/nawang0226/abus_code)
 
-Breast MRI: [https://github.com/ryandok/JPA](https://github.com/ryandok/JPA)
+Breast Cancer in DCE-MRI: [https://github.com/ryandok/JPA](https://github.com/ryandok/JPA)
 
-Breast MRI: [https://github.com/2313595986/BreastCancerMRI](https://github.com/2313595986/BreastCancerMRI)
+Breast Cancer in DCE-MRI: [https://github.com/2313595986/BreastCancerMRI](https://github.com/2313595986/BreastCancerMRI)
+
+Prostate csPCa in Transrectal Ultrasound: [https://github.com/2313595986/ProstateTRUS](https://github.com/2313595986/ProstateTRUS)
