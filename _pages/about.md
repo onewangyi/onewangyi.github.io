@@ -16,6 +16,8 @@ News
 ======
 02/2024: Our paper on Deformable Image Registration without Pre-alignment is accepted by _IEEE_ _TMI_. Congrats to Haiqiao. "[Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968)", [[code]](https://github.com/ZAX130/RDP).
 
+02/2024: Our paper on Diagnosis of Clinically Significant Prostate Cancer (csPCa) is accepted by _ISBI2024_. Congrats to Hong Wu. "Multi-Modality Transrectal Ultrasound Video Classification for Identification of Clinically Significant Prostate Cancer", [[code]](https://github.com/2313595986/ProstateTRUS).
+
 02/2024: Our paper on Medical Image Registration is accepted by _ISBI2024_. Congrats to Zhuoyuan and Haiqiao. "Pyramid Attention Network for Medical Image Registration", [[code]](https://github.com/JuliusWang-7/PAN).
 
 01/2024: Our collaborative study with [Prof. Zida Li](https://zidalab.github.io/) is accepted by _PNAS_. "[StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate](https://www.pnas.org/doi/10.1073/pnas.2314030121)".
