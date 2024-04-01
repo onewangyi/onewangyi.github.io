@@ -14,7 +14,7 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
-03/2024: Our paper on Multi-organ Segmentation in CT is accepted by _Expert Systems with Applications_. Congrats to Zefan. "Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation", [[code]](https://github.com/zefanyang/organsegct).
+03/2024: Our paper on Multi-organ Segmentation in CT is accepted by _Expert Systems with Applications_. Congrats to Zefan. "[Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856)", [[code]](https://github.com/zefanyang/organsegct).
 
 02/2024: Our paper on Deformable Image Registration without Pre-alignment is accepted by _IEEE_ _TMI_. Congrats to Haiqiao. "[Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968)", [[code]](https://github.com/ZAX130/RDP).
 
