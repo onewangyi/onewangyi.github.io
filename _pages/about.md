@@ -14,6 +14,8 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
+05/2024: Our paper on Breast Cancer Diagnosis in DCE-MRI is accepted by _CBMS2024_. Congrats to Zixian. "[Exploring Kinetic Curves Features for the Classification of Benign and Malignant Breast Lesions in DCE-MRI](https://arxiv.org/abs/2404.13929)", [[code]](https://github.com/ryandok/JPA).
+
 04/2024: Our paper on Fractured Bone Segmentation is accepted by _EMBC2024_. Congrats to Yu Zhou. "[Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT](https://arxiv.org/abs/2405.01204)", [[code]](https://github.com/ZhouyuPOP/FracSeg-Net).
 
 03/2024: Our paper on Multi-organ Segmentation in CT is accepted by _Expert Systems with Applications_. Congrats to Zefan. "[Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856)", [[code]](https://github.com/zefanyang/organsegct).
@@ -37,10 +39,6 @@ News
 06/2023: Our paper on Point-supervised Medical Image Segmentation is accepted by _MICCAI2023_. Congrats to Yuming. "[SimPLe: Similarity-Aware Propagation Learning for Weakly-Supervised Breast Cancer Segmentation in DCE-MRI](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_54)", [[code]](https://github.com/Abner228/SmileCode).
 
 05/2023: Our paper on Medical Image Registration is early accepted by _MICCAI2023_. Congrats to Haiqiao. "[ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)", [[code]](https://github.com/ZAX130/SmileCode).
-
-03/2023: Dr. Wang has served as the Program Committee Member of The 36th IEEE International Symposium on Computer-Based Medical Systems (_IEEE CBMS2023_).
-
-03/2023: Our paper on Breast Cancer Segmentation in DCE-MRI is accepted by _Expert Systems with Applications_. Congrats to Rian. "[Joint-phase Attention Network for Breast Cancer Segmentation in DCE-MRI](https://www.sciencedirect.com/science/article/pii/S0957417423004645)", [[code]](https://github.com/ryandok/JPA).
 
 Contact
 ======
