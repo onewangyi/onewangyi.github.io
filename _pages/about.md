@@ -14,7 +14,7 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
-04/2024: Our paper on Fractured Bone Segmentation is accepted by _EMBC2024_. Congrats to Yu Zhou. "Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT", [[code]](https://github.com/ZhouyuPOP/FracSeg-Net).
+04/2024: Our paper on Fractured Bone Segmentation is accepted by _EMBC2024_. Congrats to Yu Zhou. "[Towards Cross-Scale Attention and Surface Supervision for Fractured Bone Segmentation in CT](https://arxiv.org/abs/2405.01204)", [[code]](https://github.com/ZhouyuPOP/FracSeg-Net).
 
 03/2024: Our paper on Multi-organ Segmentation in CT is accepted by _Expert Systems with Applications_. Congrats to Zefan. "[Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856)", [[code]](https://github.com/zefanyang/organsegct).
 
