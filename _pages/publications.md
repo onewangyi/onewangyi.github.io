@@ -10,7 +10,7 @@ author_profile: true
 
 Selected Publications:
 ======
-Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu\*, **Yi Wang**\*, [Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://arxiv.org/abs/2404.01723), _Expert Systems with Applications_, 2024. [[code](https://github.com/JuliusWang-7/CE_Block)]
+Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu\*, **Yi Wang**\*, [Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://authors.elsevier.com/sd/article/S0957-4174(24)01145-X), _Expert Systems with Applications_, 2024. [[code](https://github.com/JuliusWang-7/CE_Block)]
 
 Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, [Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856), _Expert Systems with Applications_, 2024. [[code](https://github.com/zefanyang/organsegct)]
 
