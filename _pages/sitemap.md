@@ -33,6 +33,8 @@ Multi-organs: [https://github.com/zefanyang/organseg_dags](https://github.com/ze
 
 AutPath-Dynamic Inference: [https://github.com/JustThinker/AutoPath](https://github.com/JustThinker/AutoPath)
 
+2D for 3D: [https://github.com/JuliusWang-7/CE_Block](https://github.com/JuliusWang-7/CE_Block)
+
 
 Computer Assisted Diagnosis:
 ======
