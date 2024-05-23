@@ -14,7 +14,7 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
-05/2024: Our paper on 2D for 3D Segmentation is accepted by _Expert Systems with Applications_. Congrats to Zhuoyuan. "[Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://arxiv.org/abs/2404.01723)", [[code]](https://github.com/JuliusWang-7/CE_Block).
+05/2024: Our paper on 2D for 3D Segmentation is accepted by _Expert Systems with Applications_. Congrats to Zhuoyuan. "[Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://authors.elsevier.com/sd/article/S0957-4174(24)01145-X)", [[code]](https://github.com/JuliusWang-7/CE_Block).
 
 05/2024: Our paper on Breast Cancer Diagnosis in DCE-MRI is accepted by _CBMS2024_. Congrats to Zixian. "[Exploring Kinetic Curves Features for the Classification of Benign and Malignant Breast Lesions in DCE-MRI](https://arxiv.org/abs/2404.13929)", [[code]](https://github.com/ryandok/JPA).
 
