@@ -10,11 +10,11 @@ author_profile: true
 
 Selected Publications:
 ======
-Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu\*, **Yi Wang**\*, [Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://authors.elsevier.com/sd/article/S0957-4174(24)01145-X), _Expert Systems with Applications_, 2024. [[code](https://github.com/JuliusWang-7/CE_Block)]
+Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu\*, **Yi Wang**\*, [Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://authors.elsevier.com/sd/article/S0957-4174(24)01145-X), _Expert Systems with Applications_, 2024, 253: 124279. [[code](https://github.com/JuliusWang-7/CE_Block)]
 
-Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, [Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856), _Expert Systems with Applications_, 2024. [[code](https://github.com/zefanyang/organsegct)]
+Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, [Recurrent Feature Propagation and Edge Skip-Connections for Automatic Abdominal Organ Segmentation](https://doi.org/10.1016/j.eswa.2024.123856), _Expert Systems with Applications_, 2024, 249: 123856. [[code](https://github.com/zefanyang/organsegct)]
 
-Haiqiao Wang, Dong Ni, **Yi Wang**\*, [Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968), _IEEE Transactions on Medical Imaging_, 2024. [[code]](https://github.com/ZAX130/RDP)
+Haiqiao Wang, Dong Ni, **Yi Wang**\*, [Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration](https://doi.org/10.1109/TMI.2024.3362968), _IEEE Transactions on Medical Imaging_, 2024, 43(6): 2229-2240. [[code]](https://github.com/ZAX130/RDP)
 
 Zefan Yang, Di Lin, Dong Ni, **Yi Wang**\*, [Non-Iterative Scribble-Supervised Learning with Pacing Pseudo-Masks for Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417423025265), _Expert Systems with Applications_, 2024, 238: 122024. [[code](https://github.com/zefanyang/pacingpseudo)]
 
