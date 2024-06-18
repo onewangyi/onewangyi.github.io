@@ -18,6 +18,8 @@ Joint Affine and Deformable Registration: [https://github.com/zzy245328021/regis
 
 Pyramid Attention Registration: [https://github.com/JuliusWang-7/PAN](https://github.com/JuliusWang-7/PAN)
 
+Cross-domain Deformable Registration (EncoderReg): [https://github.com/JuliusWang-7/EncoderReg](https://github.com/JuliusWang-7/EncoderReg)
+
 
 Segmentation:
 ======
