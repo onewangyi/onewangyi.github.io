@@ -14,7 +14,7 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
-06/2024: Our collaborative study with Prof. Jianhua Zhou (Department of Ultrasound, Sun Yat-sen University Cancer Center) is accepted by _MICCAI2024_. "Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound".
+06/2024: Our collaborative study with Prof. Jianhua Zhou (Department of Ultrasound, Sun Yat-sen University Cancer Center) is accepted by _MICCAI2024_. "Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound", [[code]](https://github.com/2313595986/CsPCa2024).
 
 05/2024: Our collaborative study with Prof. Ming Xu and Prof. Xiaoyan Xie (Department of Medical Ultrasound, The First Affiliated Hospital, SYSU) is accepted by _UMB_. "Development and Validation of an Explainable Machine Learning Model for Identification of Hyperfunctioning Parathyroid Glands from High-Frequency Ultrasonographic Images".
 
