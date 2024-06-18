@@ -44,6 +44,6 @@ Breast Cancer in DCE-MRI: [https://github.com/ryandok/JPA](https://github.com/ry
 
 Breast Cancer in DCE-MRI: [https://github.com/2313595986/BreastCancerMRI](https://github.com/2313595986/BreastCancerMRI)
 
-Prostate csPCa in Transrectal Ultrasound: [https://github.com/2313595986/ProstateTRUS](https://github.com/2313595986/ProstateTRUS)
+Prostate csPCa in Transrectal Ultrasound: [https://github.com/2313595986/ProstateTRUS](https://github.com/2313595986/ProstateTRUS), [https://github.com/2313595986/CsPCa2024](https://github.com/2313595986/CsPCa2024)
 
 Fracture Segmentation in CT: [https://github.com/ZhouyuPOP/FracSeg-Net](https://github.com/ZhouyuPOP/FracSeg-Net)
