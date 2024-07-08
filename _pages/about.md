@@ -14,6 +14,8 @@ Yi Wang's research interests mainly focus on Intelligent Computing Assisted Diag
 
 News
 ======
+07/2024: Our collaborative study with Prof. Jun Xia (Department of Radiology, Shenzhen Second People's Hospital) is accepted by _European Journal of Radiology_. "[Automatic segmentation of knee CT images of tibial plateau fractures based on three-dimensional U-Net: Assisting junior physicians with Schatzker classification](https://www.sciencedirect.com/science/article/pii/S0720048X24003218)", [[code]](https://github.com/ZhouyuPOP/FracSeg-Net).
+
 06/2024: Our collaborative study with Prof. Jianhua Zhou (Department of Ultrasound, Sun Yat-sen University Cancer Center) is accepted by _MICCAI2024_. "[Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound](https://arxiv.org/abs/2406.14069)", [[code]](https://github.com/2313595986/CsPCa2024).
 
 05/2024: Our collaborative study with Prof. Ming Xu and Prof. Xiaoyan Xie (Department of Medical Ultrasound, The First Affiliated Hospital, SYSU) is accepted by _UMB_. "Development and Validation of an Explainable Machine Learning Model for Identification of Hyperfunctioning Parathyroid Glands from High-Frequency Ultrasonographic Images".
