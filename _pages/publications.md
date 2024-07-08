@@ -10,7 +10,7 @@ author_profile: true
 
 Selected Publications:
 ======
-Hong Wu, Juan Fu, Hongsheng Ye, Yuming Zhong, Xuebin Zou, Jianhua Zhou\*, **Yi Wang**\*, Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound, In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2024. [[code](https://github.com/2313595986/CsPCa2024)]
+Hong Wu, Juan Fu, Hongsheng Ye, Yuming Zhong, Xuebin Zou, Jianhua Zhou\*, **Yi Wang**\*, [Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound](https://arxiv.org/abs/2406.14069), In Proceedings of the _International Conference on Medical Image Computing and Computer-Assisted Intervention_ (MICCAI), 2024. [[code](https://github.com/2313595986/CsPCa2024)]
 
 Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu\*, **Yi Wang**\*, [Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation](https://authors.elsevier.com/sd/article/S0957-4174(24)01145-X), _Expert Systems with Applications_, 2024, 253: 124279. [[code](https://github.com/JuliusWang-7/CE_Block)]
 
